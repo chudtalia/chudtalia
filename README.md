@@ -3,6 +3,6 @@
      align="left" 
      style="margin-right: 15px;" />
 
-hi
+${\color{red}hi}$
 
 <br clear="left"/>
