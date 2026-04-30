@@ -8,6 +8,9 @@ ${\color{red}hi ~welcome ~yo}$
      
 <p align="center">
 <a href="https://santafies.atabook.org/">atabook</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     
+<img src="https://komarev.com/ghpvc/?username=chudtalia&label=✦&labelColor=00000&color=000000&style=flat" alt="Profile views badge"/>
+
   
  
 
