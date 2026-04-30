@@ -4,7 +4,7 @@
      style="margin-right: 15px;" />
      
 <p align="center">
-${\color{red}hi}$
+${\color{red}hi ~welcome ~yo}$
      
 <p align="center">
 <a href="https://santafies.atabook.org/">atabook</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
