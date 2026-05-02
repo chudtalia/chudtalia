@@ -12,7 +12,7 @@ ${\color{red}hi ~welcome ~yo}$
 <img src="https://komarev.com/ghpvc/?username=chudtalia&label=shotguns&labelColor=red&color=red&style=flat" alt="Profile views badge"/>
 
 <p align="center">
-${\color{red} ~c/h ~always ~enc}$
+${\color{pink} ~c/h ~always ~enc}$
 
  
 
